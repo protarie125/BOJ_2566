@@ -8,7 +8,7 @@ int main() {
 
 	auto x = int{ -1 };
 	auto y = int{ -1 };
-	auto m = int{ 0 };
+	auto m = int{ -1 };
 	for (int i = 0; i < 9; ++i) {
 		for (int j = 0; j < 9; ++j) {
 			int v;
